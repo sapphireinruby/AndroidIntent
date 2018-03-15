@@ -5,4 +5,4 @@ by executed command: git config –global core.autocrlf false
 
 fixed Android Studio upload error:<br/>
 Can't connect to repository from configured remote. You could want to check .git config...<br/>
-by reset the confige setting
+by reset the config setting
